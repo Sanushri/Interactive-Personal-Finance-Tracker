@@ -1,0 +1,6 @@
+streamlit 
+matplotlib
+plotly.express 
+json
+os
+numpy 
